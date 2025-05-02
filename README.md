@@ -2,7 +2,7 @@
 - 👀 I’m interested in making games, maybe some other stuff when I get older
 - 🌱 I’m currently learning lua in roblox studio, and very new to C# in unity game engine
 - 💞️ I’m looking to collaborate on some other things, not sure though
-- 📫 How to reach me: nothing for now
+- 📫 If you want to reach me (for some reason) i use discord: 2doggo4
 - 😄 Pronouns: he/him or they/them if you want
 - ⚡ Fun fact: im a goofy goober
 
